@@ -1,0 +1,5 @@
+pydantic
+gradio==4.44.0
+pandas
+openai
+huggingface_hub==0.20.3

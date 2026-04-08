@@ -1,0 +1,5 @@
+name: WorkBenchAI
+version: 1.0
+description: Multi-agent real-world task environment
+entry_point: environment:WorkBenchEnv
+reward_range: [-1, 1]
