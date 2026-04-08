@@ -13,4 +13,3 @@ Multi-agent OpenEnv environment for real-world tasks:
 
 ## Run
 python app.py
-Public Link:http://127.0.0.1:7860
